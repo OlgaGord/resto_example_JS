@@ -1,0 +1,24 @@
+{
+    "home": {
+        "default": true,
+        "id": "home",
+        "title": "Home",
+        "menu": "Home",
+        "header": "Welcome!",
+        "content": "We are glad to welcome you in our restaurant!"
+    },
+    "shoes": {
+        "id": "menu",
+        "menu": "Menu",
+        "title": "Menu",
+        "header": "Menu",
+        "content": ""
+    },
+    "about": {
+        "id": "about",
+        "menu": "About Us",
+        "title": "Information",
+        "header": "We are awesome",
+        "content": ""
+    }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Cook1",
+    "description": "Hi, I'm Danis, glad to meet you!",
+    "src": "barist.png",
+    "id": 1
+  },
+  {
+    "name": "Cook",
+    "description": "Hi, I'm Merinda!",
+    "src": "cook.png",
+    "id": 2
+  },
+  {
+    "name": "Cook1",
+    "description": "Hi, I'm Jack!",
+    "src": "cook1.png",
+    "id": 3
+  },
+  {
+    "name": "Cook1",
+    "description": "Hi, I'm Garry!",
+    "src": "cook2.png",
+    "id": 4
+  },
+  {
+    "name": "Boy",
+    "description": "Hi, I'm Simpson junior!",
+    "src": "simp_boy1.png",
+    "id": 5
+  },
+  {
+    "name": "Girl",
+    "description": "Hi, I'm Lisa!",
+    "src": "simp_girl1.png",
+    "id": 6
+  },
+  {
+    "name": "Waiter",
+    "description": "Hi, I'm John!",
+    "src": "waiter.png",
+    "id": 7
+  }
+]

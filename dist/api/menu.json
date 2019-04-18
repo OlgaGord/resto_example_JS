@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Chicken",
+        "price": 9.99,
+        "description": "Very tasty chicken!",
+        "src": "chicken1.png",
+        "id": 1
+    },
+    {
+        "name": "Potato chips",
+        "price": 3.33,
+        "description": "Chip chips chips!",
+        "src": "chips1.png",
+        "id": 2
+    },
+    {
+        "name": "Riz",
+        "price": 2.95,
+        "description": "Very good for helth!",
+        "src": "riz11.png",
+        "id": 3
+    },
+    {
+        "name": "Green salad",
+        "price": 3.55,
+        "description": "Very good for helth!",
+        "src": "salad12.png",
+        "id": 4
+    },
+    {
+        "name": "Green salad with tomatoes",
+        "price": 4.99,
+        "description": "Very good for helth!",
+        "src": "salad11.png",
+        "id": 5
+    },
+    {
+        "name": "Greek salad",
+        "price": 5.85,
+        "description": "This high heel shoe, is so classy, you can show your mom!",
+        "src": "salad13.png",
+        "id": 6
+    }
+]
